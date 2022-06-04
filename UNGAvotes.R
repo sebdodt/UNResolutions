@@ -63,6 +63,4 @@ ggplot(storage) +
   ylab("Votes aligned with outcome") +
   ggtitle("UN General Assembly votes")
 
-
-test <- "hello world"
-print(test)
+ggsave("plot1.png")
