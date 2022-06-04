@@ -62,3 +62,7 @@ ggplot(storage) +
   xlab("Year") +
   ylab("Votes aligned with outcome") +
   ggtitle("UN General Assembly votes")
+
+
+test <- "hello world"
+print(test)
